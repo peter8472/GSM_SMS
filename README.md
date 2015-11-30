@@ -15,9 +15,11 @@ http://www.etsi.org/deliver/etsi_gts/07/0705/05.00.00_60/gsmts_0705v050000p.pdf 
 http://www.etsi.org/deliver/etsi_ts/127000_127099/127005/12.00.00_60/ts_127005v120000p.pdf (2014)
 
 Abbreviations: http://www.etsi.org/deliver/etsi_gts/01/0104/05.00.00_60/gsmts_0104v050000p.pdf
-Other AT commands not related to SMS:
+Other AT commands not related to SMS, but with phone directory, etc:
+
 http://www.etsi.org/deliver/etsi_gts/07/0707/05.00.00_60/gsmts_0707v050000p.pdf (old)
 http://www.etsi.org/deliver/etsi_ts/100900_100999/100916/07.08.00_60/ts_100916v070800p.pdf (most recent)
+
 "technical realization of the Short Message Service (2014)
 http://www.etsi.org/deliver/etsi_ts/123000_123099/123040/12.02.00_60/ts_123040v120200p.pdf
 
