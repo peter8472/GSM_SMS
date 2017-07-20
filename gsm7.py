@@ -1,5 +1,5 @@
-#! /usr/bin/python
-
+﻿#! /usr/bin/python
+# coding=utf-8
 """Another gsm lookup class.  This one should actually work"""
 b=      [u"@∆ 0¡P¿p"]
 b.append(u"£_!1AQaq")
